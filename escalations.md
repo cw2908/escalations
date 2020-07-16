@@ -13,8 +13,11 @@
 ---
 ## JUL-16-2020
 ##### Dennis
+- 00103599 Category Dropbox
 ##### Tye
 ##### Miguel
+- 00103655 Release Account
+- 00102649 Response Automation
 ##### Mohcine
 ##### Chris
 ##### Brooks
