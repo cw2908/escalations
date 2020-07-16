@@ -1,0 +1,44 @@
+# Template
+```
+---
+## ABC-01-2020
+##### Dennis
+##### Tye
+##### Miguel
+##### Mohcine
+##### Chris
+##### Brooks
+```
+
+---
+## JUL-16-2020
+##### Dennis
+##### Tye
+##### Miguel
+##### Mohcine
+##### Chris
+##### Brooks
+- 00099443 Merge
+
+
+
+---
+## JUL-15-2020
+##### Dennis
+- 00099011 Export File
+- 00103290 CC comments
+- 00103280 Change Approval
+##### Tye
+##### Miguel
+- 00103402 CMDB Questions
+- 00102851 SAML
+- 00103412 Roles
+- 00103467 Mobile SSO
+- 00103567 SSO Domain Issue
+- 00103587 Activation Email
+##### Mohcine
+##### Chris
+##### Brooks
+- 00102403 Roles Issue
+- 00103410 Asset Type
+- 00103474 Bounced Email
