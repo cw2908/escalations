@@ -9,6 +9,18 @@
 ##### Chris
 ##### Brooks
 ```
+---
+## JUL-17-2020
+##### Dennis
+- 00103197 Requester List
+##### Tye
+##### Miguel
+- 00102971 Updating User
+- 00103570 Satisfaction Clicked
+##### Mohcine
+##### Chris
+##### Brooks
+- 00103313 Reset User
 
 ---
 ## JUL-16-2020
@@ -21,6 +33,7 @@
 ##### Mohcine
 ##### Chris
 ##### Brooks
+- 00103252 Duplicates
 - 00099443 Merge
 
 
