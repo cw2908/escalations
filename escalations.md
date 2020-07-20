@@ -10,6 +10,22 @@
 ##### Brooks
 ```
 ---
+## JUL-20-2020
+##### Dennis
+##### Tye
+- 00101303 Requester Quotes
+- 00103155 Change Dates
+- 00103232 Task Assignment
+- 00102852 Email Translation
+##### Miguel
+- 00103421 Group Sorting
+- Mobile Activations
+##### Mohcine
+- 00103834 Email Customizations
+##### Chris
+##### Brooks
+- 00103397 Risk Error
+---
 ## JUL-17-2020
 ##### Dennis
 - 00103197 Requester List
