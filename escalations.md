@@ -19,7 +19,8 @@
 - 00102852 Email Translation
 ##### Miguel
 - 00103421 Group Sorting
-- Mobile Activations
+- (will confirm #) Mobile Activations
+- 00103587 User Activation Email
 ##### Mohcine
 - 00103834 Email Customizations
 ##### Chris
