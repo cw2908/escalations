@@ -10,6 +10,24 @@
 ##### Brooks
 ```
 ---
+## JUL-21-2020
+##### Dennis
+- 00103625 Account Reactivation
+##### Tye
+- 00103616 Community Activation (Originally Miguel's)
+- 00103617 Community Activation (Originally Miguel's)
+##### Miguel
+- 00103587 Activation Email
+- 00103764 Certificate Issue
+##### Mohcine
+- 00103645 SSL (Missing private key)
+##### Chris
+##### Brooks
+- 00103475 Updating Change Issue
+- 00102403 On Behalf Of
+- 00103313 Recover User
+- 00103868 Email Delays
+---
 ## JUL-20-2020
 ##### Dennis
 ##### Tye
