@@ -26,6 +26,7 @@
 ##### Brooks
 - 00103397 Risk Error
 - 00103900 Slow page load
+- 00103167 Users Updated
 ---
 ## JUL-17-2020
 ##### Dennis
