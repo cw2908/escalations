@@ -10,8 +10,25 @@
 ##### Brooks
 ```
 ---
+## JUL-23-2020
+##### Dennis
+- 00099974 Duplicate Users
+- 00103316 Email delivery issue
+##### Tye
+##### Miguel
+- 00103604 Related Items
+- 00095510 DD fields for Teamhealth
+- 00103091 Email failures
+##### Mohcine
+##### Chris
+##### Brooks
+- 00103851 Back button Missing
+- 00103900 Slow Page Loads
+- 00103859 Zapier Issue
+---
 ## JUL-20-2020
 ##### Dennis
+- 00103599 Missing Email
 ##### Tye
 - 00101303 Requester Quotes
 - 00103155 Change Dates
@@ -23,6 +40,7 @@
 - 00103587 User Activation Email
 ##### Mohcine
 - 00103834 Email Customizations
+- 00101283 R&D user in Okta
 ##### Chris
 ##### Brooks
 - 00103397 Risk Error
